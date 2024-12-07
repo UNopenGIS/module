@@ -5,7 +5,7 @@ The **UN Smart Maps Module** is a flexible, portable, cloud-native web map serve
 - **Anchored Mode**: Utilizes commercial power and an Ethernet connection for indoor operations.
 - **Aboard Mode**: Operates independently as a WiFi access point, powered by a laptop or portable battery.
 
-images/anchored-aboard.jpg
+![anchored and aboard mode](images/anchored-aboard.jpg)
 
 The Module is tailored for portability, resilience against power outages, and simplicity in setup and use, supporting diverse geospatial application needs in both stable and dynamic environments.
 
@@ -78,7 +78,7 @@ The Module can share its Ethernet-based internet connection with clients connect
 | **Operational Modes**   | Single mode                             | Anchored and Aboard                    |
 | **Use Case**            | Field operations with built-in battery  | Flexible environments, adaptable power |
 
-images/portable-module.jpg
+![portable and module](images/portable-module.jpg)
 
 ---
 
